@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.awt.PageAttributes.MediaType"/>
+    <fullyQualifiedTypeName name="org.glassfish.jersey.client.ClientConfig"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.client.ClientBuilder"/>
+    <fullyQualifiedTypeName name="com.sun.security.ntlm.Client"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.client.WebTarget"/>
     <fullyQualifiedTypeName name="javax.ws.rs.core.MediaType"/>
+    <fullyQualifiedTypeName name="java.net.URL"/>
+    <fullyQualifiedTypeName name="javax.ws.rs.PathParam"/>
 </qualifiedTypeNameHistroy>
